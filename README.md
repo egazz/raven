@@ -5,22 +5,13 @@ Raven
 [![Dependencies](http://img.shields.io/david/robotlolita/raven.svg?style=flat)](https://david-dm.org/robotlolita/raven)
 ![Licence](https://img.shields.io/badge/licence-MIT-red.svg?style=flat)
 
-
-> "Why is a raven like a writing desk?"
-> Like Poe, you might write on both.
-
-Raven is a minimal, distraction-free text editor with good typography.
+Since the [original Raven](https://github.com/robotlolita/raven), developed by Robotlolita, is in hiatus, I decided to create a fork to see what else it could use.  The same disclaimers apply: still in early stages, may break.  So back up your stuff.
 
 ![Raven screenshot](https://raw.githubusercontent.com/robotlolita/raven/master/screenshot.png)
 
-> **NOTE**
->
-> This project is still in REALLY EARLY STAGES of development. While it's
-> usable, most of the features are not implemented, and it might just break and
-> eat all your novel DON'T YA DARE TRUST IT YA HEAR.
-
-
 ## Getting Started
+
+NOTE: Since I haven't actually made any changes yet, these still go to Robotlolita's builds.
 
  1. Download the right distribution for your platform:
 
